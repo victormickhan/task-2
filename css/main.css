@@ -36,3 +36,7 @@ body {
 .maze__cell_current {
     background-color: #f21000;
 }
+
+.maze__cell_visualpath{
+    background-color: green;
+}
